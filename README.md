@@ -70,13 +70,6 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 
-
-Then access the admin panel:
-
-
-http://127.0.0.1:8000/admin
-
-
 ---
 
 ### 2 AI Proctoring Module (Terminal 2)
